@@ -371,7 +371,7 @@ server <- function(input, output, session) {
               ),
               tabPanel("Sign Up", 
                        textInput("new_username", "Choose Username", placeholder = "Create username"),
-                       textInput("email", "Email (Optional)", placeholder = "Enter email"),
+                       textInput("email", "Email ", placeholder = "Enter email"),
                        passwordInput("new_password", "Create Password", placeholder = "Create strong password"),
                        passwordInput("confirm_password", "Confirm Password", placeholder = "Repeat password"),
                        actionButton("signup_button", "Sign Up", class = "btn btn-primary btn-block")
