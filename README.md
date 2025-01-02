@@ -1,4 +1,4 @@
-# Stock Analysis Dashboard
+# Health Disparity Dashboard
 
 Stock Analysis Dashboard with R Shiny and Plotly. This dashboard allows users to analyze stock data. Powered with randomForest and caret for stock prediction.
 
