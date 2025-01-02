@@ -1,4 +1,3 @@
 # Health-Disparities
-This is a Power Bi end to end project
-
-It's an Power Bi Dashboard Project
+Health Disparity Portfolio Analysis 
+web application built with R Shiny
